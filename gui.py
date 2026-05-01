@@ -12,6 +12,11 @@ import time
 import tkinter as tk
 
 _HERE = os.path.dirname(os.path.abspath(__file__))
+
+# Point pytesseract at the bundled tesseract binary
+import pytesseract as _pt
+_pt.pytesseract.tesseract_cmd = os.path.join(_HERE, "tesseract", "tesseract.exe")
+
 for _p in (
     os.path.join(_HERE, "Tools"),
     os.path.join(_HERE, "avlib"),

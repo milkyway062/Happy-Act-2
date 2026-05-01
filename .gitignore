@@ -21,9 +21,6 @@ CLAUDE.md
 # Docs (internal reference only)
 av - rb docs/
 
-# Tesseract binary installation (install separately: https://github.com/tesseract-ocr/tesseract)
-tesseract/
-
 # OS
 .DS_Store
 Thumbs.db
