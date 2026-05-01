@@ -1,0 +1,174 @@
+{
+  "avgs": {
+    "lose_detection_pixel": [
+      204,
+      161
+    ],
+    "lose_detection_color": [
+      235,
+      235,
+      235
+    ],
+    "game_end_pixel": [
+      725,
+      170
+    ],
+    "wave_number_region": [
+      248,
+      46,
+      300,
+      70
+    ],
+    "wait_for_spawn_pixel": [
+      394,
+      123
+    ],
+    "start_pixel_cord": [
+      472,
+      127
+    ],
+    "retry_pixel_cords": [
+      363,
+      471
+    ],
+    "card_region": [
+      16,
+      171,
+      790,
+      359
+    ],
+    "card_check_region": [
+      350,
+      142,
+      131,
+      36
+    ]
+  },
+  "avas": {
+    "unit_ability_one": [
+      335,
+      283
+    ],
+    "unit_ability_one_auto": [
+      378,
+      283
+    ],
+    "unit_ability_two": [
+      337,
+      335
+    ],
+    "unit_ability_two_auto": [
+      373,
+      335
+    ],
+    "unit_ability_three": [
+      334,
+      386
+    ],
+    "unit_place_close_check": [
+      305,
+      233
+    ],
+    "unit_place_check_delay": 0.1,
+    "unit_place_timeout": 1,
+    "unit_place_click_delay": 0.4,
+    "brook_ability_close": [
+      590,
+      183
+    ]
+  },
+  "avus": {
+    "unit_place_close_check": [
+      305,
+      233
+    ],
+    "unit_place_close_check_two": [
+      105,
+      451
+    ],
+    "unit_place_check_delay": 0.1,
+    "unit_place_timeout": 1,
+    "unit_place_click_delay": 0.4,
+    "unit_place_image_confidence": 0.8,
+    "unit_place_image_grayscale": true,
+    "unit_place_image_region": [
+      151,
+      512,
+      485,
+      106
+    ],
+    "horsegirl_unit": "speed"
+  },
+  "avcs": {
+    "mount_key": "v",
+    "mount_delay": 0.5,
+    "movement_sequence": [
+      [
+        "w",
+        2.7
+      ],
+      [
+        "d",
+        3.2
+      ],
+      [
+        "w",
+        3.0
+      ],
+      [
+        "d",
+        1.0
+      ]
+    ],
+    "hold_e_duration": 1.0,
+    "hold_e_delay": 1.0,
+    "digit_buttons": {
+      "0": [
+        322,
+        295
+      ],
+      "1": [
+        410,
+        299
+      ],
+      "2": [
+        493,
+        297
+      ],
+      "3": [
+        322,
+        351
+      ],
+      "4": [
+        410,
+        351
+      ],
+      "5": [
+        495,
+        350
+      ],
+      "6": [
+        324,
+        405
+      ],
+      "7": [
+        411,
+        402
+      ],
+      "8": [
+        495,
+        405
+      ],
+      "9": [
+        325,
+        461
+      ]
+    },
+    "digit_click_delay": 0.3,
+    "confirm_button": [
+      495,
+      461
+    ],
+    "confirm_delay": 0.5
+  }
+}

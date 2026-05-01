@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rblib"
+version = "0.12"
+description = "Roblox Python library"
+authors = [
+    { name = "Loxer" }
+]
+
+dependencies = [
+    "numpy",
+    "opencv-python"
+]

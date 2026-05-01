@@ -1,0 +1,30 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+*.egg
+
+# Runtime user config (contains private server links, webhook URLs)
+config.json
+
+# Claude / AI tooling
+.claude/
+graphify-out/
+CLAUDE.md
+
+# Docs (internal reference only)
+av - rb docs/
+
+# Tesseract binary installation (install separately: https://github.com/tesseract-ocr/tesseract)
+tesseract/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

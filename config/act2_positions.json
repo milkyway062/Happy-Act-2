@@ -1,0 +1,93 @@
+{
+  "ainz_pos_1": {
+    "label": "Ainz (pre-bomb)",
+    "x": 406,
+    "y": 338,
+    "upgrades": 3,
+    "color": "#ff6b6b"
+  },
+  "ainz_pos_2": {
+    "label": "Ainz (post-bomb)",
+    "x": 408,
+    "y": 230,
+    "upgrades": 0,
+    "color": "#ff9f43"
+  },
+  "ichigo": {
+    "label": "Ichigo",
+    "x": 450,
+    "y": 230,
+    "upgrades": 0,
+    "color": "#54a0ff"
+  },
+  "sakura": {
+    "label": "Sakura",
+    "x": 247,
+    "y": 299,
+    "upgrades": 0,
+    "color": "#ff6b81"
+  },
+  "dot_1": {
+    "label": "Dot 1",
+    "x": 200,
+    "y": 125,
+    "upgrades": 3,
+    "color": "#ffd32a"
+  },
+  "dot_2": {
+    "label": "Dot 2",
+    "x": 355,
+    "y": 245,
+    "upgrades": 3,
+    "color": "#ffd32a"
+  },
+  "dot_3": {
+    "label": "Dot 3",
+    "x": 240,
+    "y": 375,
+    "upgrades": 3,
+    "color": "#ffd32a"
+  },
+  "dot_4": {
+    "label": "Dot 4",
+    "x": 400,
+    "y": 380,
+    "upgrades": 3,
+    "color": "#ffd32a"
+  },
+  "weather_1": {
+    "label": "Weather 1",
+    "x": 22,
+    "y": 518,
+    "upgrades": 0,
+    "color": "#7bed9f"
+  },
+  "weather_2": {
+    "label": "Weather 2",
+    "x": 27,
+    "y": 328,
+    "upgrades": 0,
+    "color": "#7bed9f"
+  },
+  "weather_3": {
+    "label": "Weather 3",
+    "x": 171,
+    "y": 429,
+    "upgrades": 0,
+    "color": "#7bed9f"
+  },
+  "weather_4": {
+    "label": "Weather 4",
+    "x": 244,
+    "y": 243,
+    "upgrades": 0,
+    "color": "#7bed9f"
+  },
+  "nami": {
+    "label": "Nami",
+    "x": 536,
+    "y": 236,
+    "upgrades": 0,
+    "color": "#a29bfe"
+  }
+}
